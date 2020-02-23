@@ -1,0 +1,19 @@
+public enum KeyAction
+{
+	None,
+	Forward,
+	Left,
+	Backward,
+	Right,
+	Jump,
+	Dash,
+	Crouch,
+	Interact,
+	Melee,
+	Reload,
+	SlowMo,
+	Equipment,
+	Fire,
+	SwitchFireMode,
+	Console
+}
